@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @nqhthanh
-- 👀 I’m interested in Artificial Intelligence and Data Science
-- 🌱 Learning Artificial Intelligence at FPT university
+- 🧑🏻‍💻 I’m @nqhthanh
+- 👾 Learning Artificial Intelligence at FPT university
 - 💞️ Data Analyst/ Data Scientist 
 - 📫 Reach me at: https://www.facebook.com/h4lth4nh
 
