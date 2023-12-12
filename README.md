@@ -1,7 +1,7 @@
 - 🧑🏻‍💻 I’m @nqhthanh
 - 👾 Learning Artificial Intelligence at FPT university
 - 💞️ Data Analyst/ Data Scientist 
-- 📫 Reach me at: https://www.facebook.com/h4lth4nh
+- 📫 Reach me at: https://www.linkedin.com/in/thanh-nguy%E1%BB%85n-49b158204/
 
 <!---
 nqhthanh/nqhthanh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
